@@ -22,7 +22,7 @@
   
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwind css&logoColor=white">
   <img src="https://img.shields.io/badge/font awesome-528DD7?style=for-the-badge&logo=font awesome&logoColor=white">
-  <img src="https://img.shields.io/badge/styled component-DB7093?style=for-the-badge&logo=styled component">
+  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled components&logoColor=white">
   <img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white">
   <img src="https://img.shields.io/badge/framer motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
 
