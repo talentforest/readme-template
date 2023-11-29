@@ -13,7 +13,8 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-	<img src="https://img.shields.io/badge/next.js-fff?style=for-the-badge&logo=next.js&logoColor=black">
+  <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/next.js-fff?style=for-the-badge&logo=next.js&logoColor=black">
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/recoil-007af4?style=for-the-badge&logo=recoil&logoColor=white">
 	<img src="https://img.shields.io/badge/swr-000?style=for-the-badge&logo=swr&logoColor=white">
